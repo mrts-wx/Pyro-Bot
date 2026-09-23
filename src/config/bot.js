@@ -24,8 +24,8 @@ export const botConfig = {
     activities: [
       {
         name: "Clash of Clans", // required by Discord API, not shown in the client
-        state: "Ignite Ykz and YAKUZA",     // this is what people actually see
-        type: 0,               // Custom
+        state: "Online • Pyro Bot",     // this is what people actually see
+        type: 0,               // Playing
       },
     ],
   },
